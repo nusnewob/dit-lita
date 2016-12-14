@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+ruby "2.3.3"
 
 gem "lita"
 
@@ -22,7 +23,7 @@ gem 'lita-compliment'
 gem "lita-excuses"
 gem "lita-faker"
 gem "lita-greet"
-gem "lita-hashtag"
+#gem "lita-hashtag"
 gem "lita-how-many"
 gem "lita-howdoi"
 gem "lita-karma"
